@@ -1,7 +1,5 @@
 # sqlitetoexcel
 
-If you like my plugin please support me via: https://ko-fi.com/handoyo
-
 Android Only
 
 This plugin helps you export SqLite tables to Excel (.xls format only). 
